@@ -5,3 +5,20 @@ label {
     text-align: center;
 }
 
+.button {
+    background-color: #fff;
+    color: #121212;
+    border: 1px solid #121212;
+    padding: 6px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 2px 2px;
+    min-width: 24px;
+}
+
+.button:hover {
+    background-color: #121212;
+    border: 1px solid #fff;
+    color: #fff;
+}
